@@ -3,3 +3,9 @@ Cria arquibos .git que rastreiam as mudanças.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Um tipo de middle man, assim você pode escolher especificamente quais arquivos comitar.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Adicionar apenas os arquivos necessários.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+They would help by allowing the devs to work separately.
